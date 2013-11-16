@@ -1,0 +1,4 @@
+LMR-PLUGBOT
+===========
+
+LatvianMusicRoom BOT
